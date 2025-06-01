@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm Saul Hafting, a second-year Computer Science student at Dalhousie University. I like building useful software and working on projects that teach me something new.</p>
+<p align="left">I'm Saul Hafting, a second-year Computer Science student at Dalhousie University and a Schulich Scholar with a 4.21 GPA. I like building useful software and working on projects that teach me something new.</p>
 
 ###
 
