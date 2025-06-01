@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm Saul Hafting, a second-year Computer Science student at Dalhousie University. I like building useful software and working on projects that teach me something new.<br>📫 How to reach me <a href="mailto:saulhafting@gmail.com">saulhafting@gmail.com</a><br>🎲 Fun fact: I hold the world record for most Rubik's cubes solved while on a pogo stick. https://www.guinnessworldrecords.com/world-records/541955-most-rubiks-cubes-solved-while-on-a-pogo-stic</p>
+<p align="left">✨ I'm Saul Hafting, a second-year Computer Science student at Dalhousie University. I like building useful software and working on projects that teach me something new.<br>📫 How to reach me <a href="mailto:saulhafting@gmail.com">saulhafting@gmail.com</a><br>🎲 Fun fact: I hold the world record for most Rubik's cubes solved while on a pogo stick. [https://www.guinnessworldrecords.com/world-records/541955-most-rubiks-cubes-solved-while-on-a-pogo-stic](https://www.guinnessworldrecords.com/world-records/541955-most-rubiks-cubes-solved-while-on-a-pogo-stick)</p>
 
 ###
 
