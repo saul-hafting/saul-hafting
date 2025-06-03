@@ -1,3 +1,4 @@
+add a code streak to this:
 <h1 align="left">Hi 👋 I'm Saul Hafting</h1>
 
 ###
@@ -63,20 +64,3 @@
 <p align="left">I hold the world record for most Rubik's cubes solved while on a pogo stick. https://www.guinnessworldrecords.com/world-records/541955-most-rubiks-cubes-solved-while-on-a-pogo-stick</p>
 
 ###
-
-<h2 align="left">🔥 GitHub Stats</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saulhafting&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saulhafting&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulhafting&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
